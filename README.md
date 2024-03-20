@@ -11,6 +11,6 @@ This project, built with HTML, CSS, JavaScript, and API integration, swiftly gen
 
 
 **Demo:**
-[Link to live demo]
+[[Link to live demo](https://sammy171207.github.io/QR_Generator/)https://sammy171207.github.io/QR_Generator/]
 
 **Enjoy effortless QR code generation!**
